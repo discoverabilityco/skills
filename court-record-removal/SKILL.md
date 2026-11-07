@@ -6,7 +6,7 @@ metadata:
   maintainer: The Discoverability Company
   homepage: https://discoverability.co/agentic/
   guidance: https://discoverability.co/agentic/deindex-court-records
-  version: 1.2.0
+  version: 1.2.1
   last-reviewed: 2026-11-06
   copyright: "© 2026 The Discoverability Company. All rights reserved."
 allowed-tools: [Read, Write, WebFetch]
@@ -64,7 +64,7 @@ Look for `court-record-case.json` in the current directory. If it exists, Read i
       "added": "<YYYY-MM-DD>",
       "route": "form | email | none-yet",
       "status": "needs-verification | needs-request | submitted | acknowledged | granted | refused | deindexed | skipped",
-      "liveness": [{"date": "", "http_status": 200, "note": ""}],
+      "liveness": [{"date": "", "http_status": 200, "noindex": "meta-robots | x-robots-tag | robots-txt | none | unknown | n/a-if-404", "note": ""}],
       "index_checks": [{"date": "", "method": "user-site-search | agent-browser", "result": "indexed | not-indexed | unclear"}],
       "actions": [{"date": "", "action": "drafted-email | form-guided | submitted-by-user | resent | refresh-nudge | outdated-content-filed", "artifact": "drafts/<file>"}],
       "recheck": {"next": "<YYYY-MM-DD>", "schedule": "from the site reference"},
@@ -82,7 +82,11 @@ Collect the links the user has a problem with. Accept them one at a time or as a
 
 For each URL, before drafting anything:
 
-1. **Liveness.** Fetch the target URL itself (read-only). 200: the page is still up, work proceeds. 404 or gone: record `liveness` with the date and result; the site step may already be won and only the Google step remains. Record every check with its date.
+1. **Fetch the page itself (read-only) and read its state.** Three states, three different moves, recorded in the case file with the date:
+   - **404 or gone** (`noindex: "none"`, status 404): the site already removed it. Only the Google step remains.
+   - **Live with a noindex signal** (`noindex: "meta-robots" | "x-robots-tag" | "robots-txt"`): the site has already blocked indexing but the page is still up. The site step is done; do not send them a request. The result still showing on Google is pure index lag: go straight to the refresh nudge and Refresh Outdated Content (`google-deindex.md`).
+   - **Live, no noindex signal** (`noindex: "none"`): the site has not acted. Proceed to dispatch.
+   How to read the signals: look for `<meta name="robots" content="...noindex...">` (also a `googlebot` variant) in the page HTML, an `X-Robots-Tag: noindex` response header, or a `Disallow:` covering the URL in the site's robots.txt. Use whatever raw access your tools allow; if your fetch tool returns processed text only and cannot show HTML or headers, say the signal status is `unknown` and ask the user to open the page, View Source, and search for `noindex` (30 seconds), then record what they find. Never record a guess.
 2. **Is it actually indexed?** The site step only matters for a user's search results if Google holds the page. Check with a `site:` search: if you have browsing or search tools in this environment, run `site:<url>` yourself and record the result; if you do not, give the user the exact query to run in their own browser and what to look for, and record their answer (`index_checks` with method and date). Not indexed: say so; the priority order changes, and the Google step may be unnecessary.
 
 ### 3. Dispatch per site
