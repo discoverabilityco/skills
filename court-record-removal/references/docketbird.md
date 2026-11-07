@@ -1,5 +1,7 @@
 # DocketBird
 
+Reference version: 1.0.1 (2026-11-06). The guidance page's Integrity Manifest lists the current version of this file; if they differ, the fetched guidance wins.
+
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/remove-your-record-from-docketbird/
 
 

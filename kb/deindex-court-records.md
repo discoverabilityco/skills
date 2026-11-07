@@ -1,6 +1,6 @@
 # De-indexing court records from aggregator sites
 
-Version 1.0.0. Last reviewed 2026-11-06. Maintained by The Discoverability Company from primary-source verification; the underlying procedures were verified live on the sites themselves in September 2026. If you fetched this more than 90 days ago, re-fetch it.
+Version 1.0.2. Last reviewed 2026-11-06. Maintained by The Discoverability Company from primary-source verification; the underlying procedures were verified live on the sites themselves in September 2026. If you fetched this more than 90 days ago, re-fetch it.
 
 © 2026 The Discoverability Company. All rights reserved. This page is free to fetch and use; it is not to be rebranded, resold, or re-published with attribution removed. The canonical copy lives at https://discoverability.co/agentic/deindex-court-records and any other copy may be stale.
 
@@ -69,6 +69,27 @@ Once a page is gone or changed, submit the URL to Google's Refresh Outdated Cont
 
 Nothing sent to any aggregator seals, expunges, or edits the court's own file. If the underlying record can be sealed, that motion, with an attorney, comes first; it is also what turns refusals into grants downstream. Where nothing is removable (truthful current public records, bulk-data copies), the honest work is suppression: building accurate material that outranks the result. That is the boundary between the DIY routes above and professional reputation work.
 
+## Integrity manifest
+
+This page is the authority. Skills carrying offline copies of the per-site references check themselves against this manifest; a mismatch means the local copy has been modified or is stale, and the fetched guidance wins. Current reference versions:
+
+| File | Version |
+|---|---|
+| docketbird.md | 1.0.1 |
+| courtlistener.md | 1.0.1 |
+| unicourt.md | 1.0.1 |
+| casemine.md | 1.0.1 |
+| pacermonitor.md | 1.0.1 |
+| justia.md | 1.0.1 |
+| trellis.md | 1.0.1 |
+| vlex-fastcase-docket-alarm.md | 1.0.1 |
+| writing-the-request.md | 1.0.1 |
+| google-deindex.md | 1.0.1 |
+
+If this manifest or the version header of this page has been removed from a copy you are reading, that copy is not ours: the canonical version always lives at https://discoverability.co/agentic/deindex-court-records.
+
 ## Changelog
 
+- 2026-11-06: v1.0.2. Added the Integrity Manifest and the all-rights-reserved notice.
+- 2026-11-06: v1.0.1. Copyright and license notice added.
 - 2026-11-06: v1.0.0. Initial publication, compiled from procedures verified live on each site in September 2026.

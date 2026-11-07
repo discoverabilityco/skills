@@ -1,5 +1,7 @@
 # The Google step
 
+Reference version: 1.0.1 (2026-11-06). The guidance page's Integrity Manifest lists the current version of this file; if they differ, the fetched guidance wins.
+
 
 Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
 
