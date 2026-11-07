@@ -2,6 +2,9 @@
 
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/how-to-remove-your-record-from-trellis/
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 **Route:** the "Request Redaction" link in the bottom-right corner of the docket page itself. Pressing it from the page to be redacted is the only way in; Trellis does not process requests sent by email, per its own redaction instructions (`https://support.trellis.law/how-to-request-a-redaction`). Free, always.
 
 **Eligibility:** the person named on the docket (the form asks whether the records are about you).

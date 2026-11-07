@@ -2,6 +2,9 @@
 
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/remove-your-record-from-courtlistener/
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 **Route:** contact form at `https://www.courtlistener.com/contact/?issue_type=removal` (opens with "Case Removal Request" preselected). The old removal page is gone; the contact form is the whole route. Free, no ID, no fee, no lawyer.
 
 **Eligibility:** the person named in the pages.

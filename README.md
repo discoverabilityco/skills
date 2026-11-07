@@ -19,7 +19,9 @@ Published into an ecosystem where registries have had real malware problems, so 
 - **No secrets, no environment access, no shell.**
 - **Guardrails inside.** Eligibility limits (the record's subject, or someone authorized), no assistance hiding records from victims or opposing parties, no legal advice, and plain statements of what no removal can fix.
 
-`SECURITY.md` covers responsible disclosure. MIT licensed. Guidance pages carry a version, a last-reviewed date, and a changelog.
+`SECURITY.md` covers responsible disclosure. Content and skills are © The Discoverability Company, all rights reserved, under the [`LICENSE`](LICENSE) terms: free to install and use for your own work, never to rebrand, resell, or redistribute with attribution removed. See the badge below for live install counts.
+
+[![skills.sh](https://skills.sh/b/discoverabilityco/skills)](https://skills.sh/discoverabilityco/skills)
 
 ## The guidance layer
 

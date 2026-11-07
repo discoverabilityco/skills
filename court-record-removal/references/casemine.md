@@ -2,6 +2,9 @@
 
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/how-to-remove-your-record-from-casemine/
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 **Route:** plain email to `support@casemine.com`. No form, no portal. One well-built email is the whole job.
 
 **Eligibility:** the person named in the judgments.

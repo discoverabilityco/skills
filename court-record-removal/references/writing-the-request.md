@@ -1,5 +1,8 @@
 # Writing the request: tone, structure, templates
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 Applies to every email route (CaseMine, PacerMonitor, vLex, DocketBird follow-ups) and, in compressed form, to every form's comment or reason field.
 
 ## The rules

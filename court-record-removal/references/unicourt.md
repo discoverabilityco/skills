@@ -2,6 +2,9 @@
 
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/how-to-remove-your-record-from-unicourt/
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 **Route:** Public Records Redaction Request form at `https://unicourt.com/case/removeRecord`. Free at every stage, including the appeal; UniCourt's own policy says so and adds that nobody should be billing you for this form, us included.
 
 **Eligibility (the real gate):** UniCourt "only considers requests submitted by a party to the public record, a legal guardian or fiduciary of a party, or an attorney representing a party." A reputation firm is not on the list: the user signs, or their attorney of record files. The form asks the relationship first; attorneys add bar number and bar state.

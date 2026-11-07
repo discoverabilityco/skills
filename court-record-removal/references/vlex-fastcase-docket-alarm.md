@@ -2,6 +2,9 @@
 
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/how-to-remove-your-record-from-vlex/
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 Two routes under one owner (vLex and Fastcase run on the same platform under Clio; Docket Alarm dockets take their own form).
 
 **Route A (published opinions on vLex/Fastcase):** email to `contentremovals@clio.com`. No form exists. Beware: searching "vLex removal form" surfaces a "Notice of Intent to Request Redaction" template sitting in vLex's forms library; it is a US Court of Federal Claims litigation template and sends the request nowhere. The Anonymise Documents feature only redacts files the user uploads themselves. The email is the whole process.

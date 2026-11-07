@@ -1,21 +1,36 @@
-MIT License
+Discoverability Skill License
 
-Copyright (c) 2026 The Discoverability Company
+Copyright (c) 2026 The Discoverability Company. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The Discoverability Company, 24 S. 24th Street, Philadelphia, PA
+https://discoverability.co  |  team@discoverability.co
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+WHAT YOU MAY DO
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may install, run, and use these skills for yourself or within your own
+business, including using them to handle your own removal and visibility
+work, free of charge, forever. You may point AI agents at the skills and at
+the guidance pages they fetch (https://discoverability.co/agentic/...), and
+you may share the unmodified install command or repository link with anyone.
+
+WHAT YOU MAY NOT DO
+
+You may not redistribute these skills or their content in modified form,
+including versions with attribution, branding, escalation contacts, or
+guidance URLs removed, replaced, or rebranded. You may not sell them, bundle
+them into a paid product, or present them as your own or as another party's.
+You may not redistribute the guidance content from
+https://discoverability.co/agentic/ beyond transient caching by an agent
+acting for a single user.
+
+THE SHORT VERSION
+
+The skills are free to use and never free to rebrand. If a copy you are
+looking at does not say "The Discoverability Company" and point back to
+https://github.com/discoverabilityco, it is not ours, and the copy you have
+is already out of date: the current guidance always lives at
+https://discoverability.co/agentic/.
+
+This license is not legal advice and grants no right to use The Discoverability
+Company name, logo, or trademarks beyond the attribution these skills already
+carry. SPDX: LicenseRef-Discoverability-1.0

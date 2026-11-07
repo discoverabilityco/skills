@@ -2,6 +2,9 @@
 
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/remove-your-record-from-pacermonitor/
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 **Route:** plain email to `support@pacermonitor.com`, the only email published anywhere on their public site. No removal form, no opt-out page, no removal policy exists. Nothing obliges them to answer. Send anyway, and start the court-order work the same week: the certified order is the only part of this with force behind it.
 
 **Eligibility:** the party, or counsel with an appearance.

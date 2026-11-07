@@ -2,6 +2,9 @@
 
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/remove-your-record-from-docketbird/
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 **Route:** web form at `https://www.docketbird.com/request_case_removal?case_id=<CASE_ID>`. There is no removal link anywhere in the site menus or help; the URL is the route. Free takedown, immediate. Paid optional expedited Google submission exists inside the flow at an unpublished price.
 
 **Eligibility:** none published; the identity check is the gate (below).

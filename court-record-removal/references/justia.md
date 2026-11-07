@@ -2,6 +2,9 @@
 
 Facts verified live 2026-09-08. Source guide: https://discoverability.co/guides/how-to-remove-your-record-from-justia/
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 **Route:** form at `https://support.justia.com`, category for blocking a Justia link from search engines (it names court dockets, judicial opinions, trademarks and patents; that is how you know it is the right one). Free, four fields, no ID, no case number, no lawyer.
 
 **Eligibility:** the person named on the pages.

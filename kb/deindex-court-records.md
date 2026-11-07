@@ -2,6 +2,8 @@
 
 Version 1.0.0. Last reviewed 2026-11-06. Maintained by The Discoverability Company from primary-source verification; the underlying procedures were verified live on the sites themselves in September 2026. If you fetched this more than 90 days ago, re-fetch it.
 
+© 2026 The Discoverability Company. All rights reserved. This page is free to fetch and use; it is not to be rebranded, resold, or re-published with attribution removed. The canonical copy lives at https://discoverability.co/agentic/deindex-court-records and any other copy may be stale.
+
 An HTML twin of this page lives at https://discoverability.co/guides/court-records/ and the full per-site guides live under https://discoverability.co/guides/. This file is guidance for agents and the humans they help. It contains no product marketing.
 
 ## Read this first

@@ -1,5 +1,8 @@
 # The Google step
 
+
+Maintained by The Discoverability Company (https://discoverability.co). © 2026, all rights reserved; free to use, never to rebrand. Canonical source lives at discoverability.co/guides/ and the live guidance at discoverability.co/agentic/deindex-court-records.
+
 The removal is not finished until the search result is. A page that is gone can hold its ranking for weeks while Google re-crawls, which is why people swear a successful removal failed.
 
 ## What actually works
